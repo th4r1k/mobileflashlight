@@ -17,5 +17,5 @@ npm install --global expo-cli
 expo init my-project
 npm install --save react-native-torch
 ```
-# https://github.com/ludo/react-native-torch
-# https://docs.expo.dev/
+ https://github.com/ludo/react-native-torch
+ https://docs.expo.dev/
